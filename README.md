@@ -3,10 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolc00&label=Profile%20views&color=0e75b6&style=flat" alt="anmolc00" /> </p>
 
-- 🌱 **Industrial and Production Engineering student with hands-on experience in operations, data analysis, production
-planning and process improvement across manufacturing environments. Skilled in Excel, SQL, data visualization,
-capacity analysis, productivity analysis and material flow, with a focus on data-driven operational and supply chain
-improvement**
+- Industrial and Production Engineering student with **hands-on manufacturing experience, combining Excel, SQL, and data visualization with production planning, capacity analysis, and process improvement to drive data-driven decisions**, improve productivity, and optimize operations and supply chains.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
