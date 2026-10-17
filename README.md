@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm ANMOL CHOUDHARY</h1>
-<h3 align="center">Experienced Data Analyst from India</h3>
+<h3 align="center">Experienced Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolc00&label=Profile%20views&color=0e75b6&style=flat" alt="anmolc00" /> </p>
 
-- 🌱 I’m currently Upskilling **SQL , PYTHON LIBRARIES ( PANDAS , NUMPY , MATPLOTLIB)**
+- 🌱 **Industrial and Production Engineering student with hands-on experience in operations, data analysis, production
+planning and process improvement across manufacturing environments. Skilled in Excel, SQL, data visualization,
+capacity analysis, productivity analysis and material flow, with a focus on data-driven operational and supply chain
+improvement**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
